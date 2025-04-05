@@ -47,9 +47,3 @@
 
 ---
 
-## 🤖 GitHub-ish
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevejpurves&show_icons=true&theme=radical)
-
----
-
