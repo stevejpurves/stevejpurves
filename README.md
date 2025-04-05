@@ -1,6 +1,6 @@
 # 🧬 Steve Purves | @stevejpurves
 
-> Open science advocate. Software generalist. Problem solver.  
+> I beleive in science. Software generalist. Problem solver.  
 > "Helping science help the world by focussing on communitcation tools."
 
 ---
