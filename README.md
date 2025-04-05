@@ -17,19 +17,17 @@
 ## 🗺 Where I Came From
 
 - Got into analysing signals, images and computer vision in the late 90s.
-- Was researching convolutional neural nets when all we had were pentiums.
-- Started working remotely before it was cool.
+- Researched CNNs when all I had was a Pentium.
 - Built GPU tools for geophysics when CUDA was the wild west.
 - Became a CTO because I can draw pictues too. Still shipping code.
-- Been paid to work with researchers and scientists.
-- Geeks out regularly on rocks, molecular machines and genetics.
-- Somehow all roads lead back to open science and reproducibility.
+- Got paid to work with researchers and scientists (the really cool ppl).
+- Remote since 2013 and still loving it.
+- Geek out regularly on geology, molecular machines and genetics.
 
 ---
 
 ## 🧠 Current Brain Space
 
-🧵 Threads I'm pulling on:
 - Living documents that talk back
 - Working for the open
 - Rich, semantic, networked content for science
