@@ -7,7 +7,7 @@
 
 ## 🧪 What I Do (Right Now)
 
-- 🧠 **Curvenote** — I co-founded a startup to fix how science is written, shared, and reused.
+- 🧠 **Curvenote** — I co-founded a startup to help change how science is written, shared, and reused.
 - 🛠 **MyST Markdown** — Making Markdown do a PhD’s worth of work.
 - 💻 **Thebe** — Put code execution *in* the browser. Yes, really.
 - ☁️ Living somewhere between the cloud, scientific publishing and computation.
