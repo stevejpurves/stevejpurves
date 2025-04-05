@@ -1,7 +1,7 @@
 # 🧬 Steve Purves | @stevejpurves
 
 > Open science advocate. Software generalist. Problem solver.  
-> Building tools for research communication on the web.
+> "Helping science help the world by focussing on communitcation tools."
 
 ---
 
@@ -29,24 +29,14 @@
 
 ## 🧠 Current Brain Space
 
-```txt
-TypeScript • JavaScript • Web Native • Node • React/Remix • Python • Jupyter • Docker • Graphs • Markdown • Kubernetes • Serverless
-```
-
 🧵 Threads I'm pulling on:
 - Living documents that talk back
+- Working for the open
 - Rich, semantic, networked content for science
 - Lowering the barriers to reproducibility
 - Turning publishing monoliths into democratic nodes
-
----
-
-## 📢 I’m Into…
-
-- Tools for thought
-- Working for the open
 - Building things that last longer than their funder’s website
-- Running, refactoring, and rethinking
+- Running, plant-based, oblate spheroid earther
 
 ---
 
@@ -62,8 +52,6 @@ TypeScript • JavaScript • Web Native • Node • React/Remix • Python •
 ## 🤖 GitHub-ish
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevejpurves&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevejpurves&layout=compact)
 
 ---
 
-> "Helping science help the world by focussing on the communitcation tools."
