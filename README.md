@@ -1,7 +1,6 @@
 # 🧬 Steve Purves | @stevejpurves
 
-> Software generalist. Problem solver. Builder. Founder — Helping science help the world by focussing on communitcation.
-
+> Software generalist. Problem solver. Builder. Founder.
 
 
 ---
