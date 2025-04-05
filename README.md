@@ -1,6 +1,6 @@
 # 🧬 Steve Purves | @stevejpurves
 
-> I beleive in science. Software generalist. Problem solver.  
+> Software generalist. Problem solver. Builder. Founder.
 > "Helping science help the world by focussing on communitcation tools."
 
 ---
