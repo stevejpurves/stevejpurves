@@ -20,15 +20,15 @@
 - Researched CNNs when all I had was a Pentium.
 - Built GPU tools for geophysics when CUDA was the wild west.
 - Became a CTO because I can draw pictues too. Still shipping code.
-- Got paid to work with researchers and scientists (the really cool ppl).
+- Get to work with researchers and scientists 👩‍🔬.
 - Remote since 2013 and still loving it.
-- Geek out regularly on geology, molecular machines and genetics.
+- Geek out regularly on geology and molecular machines.
 
 ---
 
 ## 🧠 Current Brain Space
 
-- Living documents that talk back
+- Interative documents that talk back
 - Working for the open
 - Rich, semantic, networked content for science
 - Lowering the barriers to reproducibility
