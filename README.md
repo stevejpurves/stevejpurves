@@ -28,13 +28,11 @@
 
 ## 🧠 Current Brain Space
 
-- Interative documents that talk back
-- Working for the open
+- Interative documents
 - Rich, semantic, networked content for science
-- Lowering the barriers to reproducibility
-- Turning publishing monoliths into democratic nodes
-- Building things that last longer than their funder’s website
-- Running, plant-based, oblate spheroid earther
+- Lowering the barriers to reuse
+- Tools and technology to power research
+- Running, health, eating mostly plants
 
 ---
 
